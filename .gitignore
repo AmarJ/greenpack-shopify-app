@@ -1,0 +1,6 @@
+#keys
+.env
+
+#other
+node_modules
+.next
